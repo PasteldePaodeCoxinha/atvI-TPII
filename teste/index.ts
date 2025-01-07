@@ -2,7 +2,7 @@ import Cliente from "../modelos/cliente";
 import Endereco from "../modelos/endereco";
 import Telefone from "../modelos/telefone";
 let cliente = new Cliente()
-cliente.nome = `Pedro de Alcântara João Carlos Leopoldo Salvador`
+cliente.nome = `Marcelo`
 cliente.nomeSocial = `Dom Pedro II`
 cliente.dataCadastro = new Date(1840, 6, 23)
 cliente.dataNascimento = new Date(1825, 11, 2)
